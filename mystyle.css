@@ -1,15 +1,25 @@
-* {
-    color: purple;
-}
-
 p {
-    color: rgb(115, 255, 0);
+    color: rgb(181, 227, 233);
 }
 
-.yellowp {
-    color: rgb(4, 0, 255);
+.bonp {
+    color: red;
+    font-size: 25px;
+    font-family: cursive;
 }
 
-.africa {
-    color: rgb(128, 0, 21);
+div.c {
+    font-size:20px;
+    color: rgb(190, 250, 198);
+    font-stretch: extra-expanded;
+}
+
+p.b {
+    font-style: italic;
+    font-size: 20px;
+}
+p.a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: salmon;
 }
