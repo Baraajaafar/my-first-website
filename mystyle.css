@@ -8,18 +8,19 @@ p {
     font-family: cursive;
 }
 
-div.c {
-    font-size:20px;
+h3.c {
+    font-size: 20px;
     color: rgb(190, 250, 198);
     font-stretch: extra-expanded;
 }
 
-p.b {
+h2.b {
     font-style: italic;
     font-size: 20px;
+    color: rebeccapurple;
 }
-p.a {
+h1.a {
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
-    color: salmon;
+    color: rgb(247, 141, 129);
 }
